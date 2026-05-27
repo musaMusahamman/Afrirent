@@ -1,0 +1,6 @@
+{
+  "name": "AfriRent",
+  "description": "Secure and long-term rental platform connecting landlords and tenants in Borno State, Nigeria and across Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
